@@ -1,4 +1,4 @@
-#EXTM3U
+
 #EXTM3U
 #EXTINF:-1,= Самообновляемый плейлист FreeWorldTV SlyNet IPTV =
 http://hls2.slynet.pw/slynetfreestartpromo?.m3u8
